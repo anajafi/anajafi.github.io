@@ -54,8 +54,10 @@ hr {
 }
 
 .panel {
-  /*background: #fefefe;*/
+  background: #fefefe;
+  /*border-color: #e6e6e6;*/
   border-color: #e6e6e6;
+  margin-top: 10px;
 }
 
 p {
