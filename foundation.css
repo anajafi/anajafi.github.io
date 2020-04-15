@@ -12,7 +12,7 @@
    *    without disabling user zoom.
    */
 html {
-  font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;;
+  font-family: sans-serif;
   /* 1 */
   -ms-text-size-adjust: 100%;
   /* 2 */
@@ -193,7 +193,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
+  font-family: monospace, monospace;
   font-size: 1em; }
 
 /* Forms
@@ -362,7 +362,7 @@ th {
   padding: 0; }
 
 .foundation-mq {
-  font-family: Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif; }
+  font-family: "small=0em&medium=40em&large=64em&xlarge=75em&xxlarge=90em"; }
 
 html {
   font-size: 100%;
